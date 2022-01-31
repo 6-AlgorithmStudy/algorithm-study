@@ -1,4 +1,4 @@
-# programmers--Kit
+# Programmers-Practice Coding Test
 programmers 코딩테스트 고득점 Kit를 푸는 스터디 리파지토리입니다. &nbsp;
 
 ## 팀원
