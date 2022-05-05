@@ -18,8 +18,8 @@ public class SW_1204최빈수구하기 {
 			int[] arr = new int[101];
 			for(int i = 0; i < 101; i++) {
 				arr[i] = 0;
-			
-			}//end i
+
+		}//end i
 			for(int i = 0; i < 1000; i++) {
 				arr[sc.nextInt()]++;
 			}
