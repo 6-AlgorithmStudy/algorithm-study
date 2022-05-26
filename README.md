@@ -1,5 +1,5 @@
 # Programmers-Practice Coding Test
-programmers 코딩테스트 고득점 Kit를 푸는 스터디 리파지토리입니다. &nbsp;
+알고리즘 문제를 꾸준히 푸는 스터디 리파지토리입니다. &nbsp;
 
 ## 팀원
 &nbsp;
@@ -17,6 +17,3 @@ programmers 코딩테스트 고득점 Kit를 푸는 스터디 리파지토리입
 &nbsp;
 차상훈
 
-
-## 문제풀이 목차
-### 정렬
